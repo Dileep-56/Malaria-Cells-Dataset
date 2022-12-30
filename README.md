@@ -1,2 +1,2 @@
 # Malaria-Cells-Dataset
-Predicts whether a blood cell is affected by Malaria using Convolutional Neural Networks
+A Machine Learning Model that predicts whether a blood cell is affected by Malaria using Convolutional Neural Networks
